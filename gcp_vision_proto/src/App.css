@@ -1,1 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:600,400,200');
+*{
+    font-family: Poppins;
+}
+body{
+    background-color: #E4E4E4;
+    margin: 25px;
+    min-width: 1000px;
+}
 
+.title{
+    display: flex;
+    align-items: center;
+    gap: 22px;
+    line-height: 0;
+}
+.product-name{
+    font-weight: 600;
+    font-size: 45px;
+}
+
+.team-name{
+    font-size: 20px;
+    color: #06ABAB;
+    padding-top: 10px;
+}
