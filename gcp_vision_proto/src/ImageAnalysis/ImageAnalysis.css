@@ -1,1 +1,28 @@
+.image-analysis-container{
+    background: white;
+    border-radius: 18px;
+    display: flex;
+    flex-direction: column;
+    padding: 25px 60px;
+    gap: 50px;
+    align-items: center;
+}
 
+.heading{
+    color: #656565;
+    line-height: 0;
+    font-size: 15px;
+    padding-top: 40px;
+}
+
+.image-button-layout{
+    display: flex;
+    flex-direction: column;
+    width: 320px;
+    gap: 10px;
+}
+
+.cloud-vision-logo{
+    width: 154px;
+    align-self: center;
+}
