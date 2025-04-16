@@ -1,1 +1,20 @@
+.video-analysis-container{
+    background: white;
+    border-radius: 18px;
+    display: flex;
+    justify-content: space-around;
+    padding: 25px 60px;
+    align-items: center;
+    gap: 50px;
+}
 
+.video-button-layout{
+    display: flex;
+    flex-direction: column;
+    min-width: 320px;
+}
+
+.video-intelligence-logo{
+    width: 220px;
+    align-self: center;
+}
